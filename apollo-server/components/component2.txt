@@ -1,0 +1,1 @@
+    return <div>This is the ideal way to write react components and you cannot convince me otherwise.</div>

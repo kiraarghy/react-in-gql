@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/urql-client/node_modules
+/apollo-server/node_modules
+
 
 # testing
 /coverage

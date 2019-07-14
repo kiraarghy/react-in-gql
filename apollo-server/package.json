@@ -1,0 +1,14 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "@babel/preset-react": "^7.0.0",
+    "apollo-server": "^2.6.9",
+    "graphql": "^14.4.2"
+  },
+  "scripts": {
+    "run": "node index.js"
+  }
+}

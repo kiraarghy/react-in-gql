@@ -1,0 +1,1 @@
+    return <div>Hello I made a cursed thing, this is all being served from an apollo-server via a GQL Query then rendered on the client 🥳.</div>
